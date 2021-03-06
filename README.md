@@ -1,6 +1,6 @@
 # Calculator using Tkinter in Python
 
-## Steps to Calculator using Tkinter in Python.
+## Steps to create Calculator using Tkinter in Python.
 - Import everything from the Tkinter using *.
 - Create an interface for the calculator.
 - Create an input function that enters a number into the input field.
